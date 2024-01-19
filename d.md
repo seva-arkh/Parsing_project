@@ -1,5 +1,5 @@
-''' mermaid
-flowchart TB
-  A --> C
-  A --> D
+'''mermaid
+flowchart TB;
+  A --> C;
+  A --> D;
 '''
